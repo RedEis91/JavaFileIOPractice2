@@ -1,0 +1,1 @@
+Ford	Focus	2009	4995.95Ford	Explorer	2017	17995.88Pontiac	Aztek	2001	5Tesla	Model S	2018	34995.95Rolls Royce	Phaeton E	1932	249999.95
